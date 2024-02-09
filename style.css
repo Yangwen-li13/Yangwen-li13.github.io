@@ -18,6 +18,7 @@
 
 .navbar .logo{
     display: inline-block;
+    font-style: italic ;
     margin-left: 50px;
     margin-top: 20px;
 }
